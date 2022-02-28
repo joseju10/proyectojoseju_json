@@ -1,5 +1,5 @@
 1- Listar Información
-Listar el numero de equipos que han ganado en la jornada 1.
+Listar el numero de equipos que han marcado al menos dos goles en la jornada 1.
 2- Contar Información
 Mostrar la cantidad de partidos en los que un equipo ha marcado mas de un gol.
 3- Buscar Información

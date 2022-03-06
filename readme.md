@@ -6,3 +6,5 @@ Mostrar la cantidad de partidos en los que un equipo ha marcado 3 goles o más.
 Buscar la cantidad de goles que ha marcado un equipo que ha jugado en la jornada x y contra el rival que juega. 
 4- Informacion_relacionada
 Pide por teclado la informacion relacionada de un equipo en una jornada y mostramos el rival con el que juega y la fecha del partido.
+5- Busca y lista
+Pide por teclado una jornada en concreto y muestra los equipos que se han llevado la victoria en esa jornada.

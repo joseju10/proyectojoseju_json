@@ -16,7 +16,7 @@ print(opciones)
 opcion=int(input("Opción:"))
 while opcion!=6:
     if opcion==1:
-        jornada1=int(input("INTRODUZCA LA JORNADA QUE VAYA A BUSCAR [0-37]:"))
+        jornada=int(input("INTRODUZCA LA JORNADA QUE VAYA A BUSCAR [0-37]:"))
         listar_informacion(jornada)
     if opcion==2:
         equipo=input("INTRODUZCA EL NOMBRE DEL EQUIPO:")

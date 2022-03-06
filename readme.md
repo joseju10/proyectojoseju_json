@@ -7,4 +7,4 @@ Buscar la cantidad de goles que ha marcado un equipo que ha jugado en la jornada
 4- Informacion_relacionada
 Pide por teclado la informacion relacionada de un equipo en una jornada y mostramos el rival con el que juega y la fecha del partido.
 5- Busca y lista
-Pide por teclado una jornada en concreto y muestra los equipos que se han llevado la victoria en esa jornada.
+Pide por teclado el nombre de un equipo en concreto y muestra el numero de victorias,empates y derrotas en ese equipo.

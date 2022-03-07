@@ -11,7 +11,6 @@ opciones='''
 4.Informacion Relacionada preguntando dos equipos y muestra las jornadas en las que se enfrentan.
 5.Pide el nombre de un equipo y muestra el numero de victorias, empates y derrotas.
 6.Salir'''
-#Listar el nombre de los equipos que han marcado dos goles o más en la jornada que usted especifique.
 print(opciones)
 opcion=int(input("Opción:"))
 while opcion!=6:

@@ -12,7 +12,7 @@ Buscar la cantidad de goles que ha marcado un equipo que ha jugado en la jornada
 
 #4- Informacion_relacionada
 
-Pide por teclado el nombre de un equipo y la jornada, y muestra el rival, marcador del partido y si ha ganado o perdido.
+Pide por teclado el nombre de dos equipos y muestra las jornadas en las que se enfrentan.
 
 #5- Busca y lista
 
